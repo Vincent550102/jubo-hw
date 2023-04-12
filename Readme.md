@@ -29,7 +29,7 @@ docker compose up -f docker-compose.dev.yml up -d
 ## swagger(api docs)
 After deploy, you can link /swagger/index.html to use swagger check and test api.
 
-example: http://103.122.116.222/swagger/index.html
+example: http://jubo.vincent55.tw/swagger/index.html
 
 ![image](https://user-images.githubusercontent.com/48404862/231569409-50b0478f-877f-4146-8e6c-76d865418387.png)
 
